@@ -16,6 +16,10 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 - [Spicetify](https://github.com/spicetify)
 
 ### Installation
+#### Spicetify Marketplace installation
+1. Install Spicetify with the Spicetify Marketplace app.
+2. Install the `Sleek` theme through the Marketplace app, and change the color scheme to `Eldritch`.
+#### Local installation
 1. Instructions can be found here: https://github.com/spicetify/spicetify-themes
 2. After installing the above you can use the following commands to activate:
 ```bash
